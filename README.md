@@ -1,3 +1,11 @@
+[![make.fun · sokoban-solver-01-run-20261121](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/payajakali1/makefun-sokoban-solver/rank.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/payajakali1/makefun-sokoban-solver/reward.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+
+Entry for the [make.fun bounty: sokoban-solver-01-run-20261121](https://make.fun/bounty/sokoban-solver-01-run-20261121) by **payaja**.
+
+---
+
 # Sokoban solver — push-space A* with room decomposition
 
 Entry for make.fun's "Build the best Sokoban solver, 21 November 2026"
